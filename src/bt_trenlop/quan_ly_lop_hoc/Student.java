@@ -42,14 +42,4 @@ class Student extends Person{
 		s.increase(5f);
 		System.out.println(s.age);
 	}
-	
-	//MAIN
-	public static void main(String[] args) {
-		String s = "a";
-		s += "b";
-		System.out.println(s);
-		
-	}
-	
-
 }

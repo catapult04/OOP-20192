@@ -10,6 +10,6 @@ public class Square extends Shape {
 	
 	@Override
 	public double calculateArea() {
-		return -1;
+		return 0;
 	}
 }

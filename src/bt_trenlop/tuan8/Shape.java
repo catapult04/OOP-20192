@@ -7,8 +7,9 @@ public abstract class Shape {
 		this.name = name;
 	}
 	
+	
 	public double calculateArea() {
-		return -1;
+		return 0;
 	}
 	
 	public static void main(String[] args) {
