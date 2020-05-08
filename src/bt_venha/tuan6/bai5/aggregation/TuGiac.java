@@ -1,4 +1,4 @@
-package tuan6.bai5.aggregation;
+package bt_venha.tuan6.bai5.aggregation;
 
 public class TuGiac {
 	private Diem d1, d2, d3, d4;

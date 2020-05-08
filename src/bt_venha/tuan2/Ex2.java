@@ -1,4 +1,4 @@
-package tuan2;
+package bt_venha.tuan2;
 import java.util.Scanner;
 public class Ex2 {
 	public static void main(String[] args) {

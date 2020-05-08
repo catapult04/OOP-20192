@@ -1,4 +1,4 @@
-package tuan6.bai5.aggregation;
+package bt_venha.tuan6.bai5.aggregation;
 
 public class Diem {
 	private int x;

@@ -1,4 +1,4 @@
-package tuan6;
+package bt_venha.tuan6.nhanvien_phongban;
 import java.util.*;
 
 public class PhongBan {

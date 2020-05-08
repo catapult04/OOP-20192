@@ -1,4 +1,4 @@
-package tuan8;
+package bt_trenlop.tuan8;
 
 public abstract class Shape {
 	private String name;
@@ -7,7 +7,7 @@ public abstract class Shape {
 		this.name = name;
 	}
 	
-	public static double calculateArea() {
+	public double calculateArea() {
 		return -1;
 	}
 	

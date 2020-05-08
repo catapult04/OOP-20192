@@ -1,4 +1,4 @@
-package quan_ly_lop_hoc;
+package bt_trenlop.quan_ly_lop_hoc;
 
 public class Person {
 	String name;

@@ -1,4 +1,4 @@
-package tuan8;
+package bt_trenlop.tuan8;
 
 public class Square extends Shape {
 	private double side;

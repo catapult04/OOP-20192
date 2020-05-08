@@ -1,4 +1,4 @@
-package quan_ly_lop_hoc;
+package bt_trenlop.quan_ly_lop_hoc;
 
 class Student extends Person{
 	public String name;
@@ -42,8 +42,6 @@ class Student extends Person{
 		s.increase(5f);
 		System.out.println(s.age);
 	}
-	
-	void m1() {}
 	
 	//MAIN
 	public static void main(String[] args) {

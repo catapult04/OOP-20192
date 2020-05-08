@@ -1,4 +1,4 @@
-package tuan2;
+package bt_venha.tuan2;
 import javax.swing.JOptionPane;
 public class Ex1 {
 	public static void main(String[] args) {

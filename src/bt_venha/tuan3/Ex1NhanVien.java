@@ -1,4 +1,4 @@
-package tuan3;
+package bt_venha.tuan3;
 
 public class Ex1NhanVien {
 	private String tenNhanVien;

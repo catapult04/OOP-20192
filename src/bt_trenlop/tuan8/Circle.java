@@ -1,4 +1,4 @@
-package tuan8;
+package bt_trenlop.tuan8;
 
 public class Circle extends Shape{
 	private double radius;
