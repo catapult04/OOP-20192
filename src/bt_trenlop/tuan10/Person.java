@@ -4,6 +4,11 @@ public class Person {
 	private String name;
 	private int age;
 	
+	public Person(String name, int age) {
+		this.setName(name);
+		this.setAge(age);
+	}
+	
 	public String getName() {
 		return name;
 	}
@@ -17,8 +22,8 @@ public class Person {
 		this.age = age;
 	}
 	
-	public Person(String name, int age) {
-		this.setName(name);
-		this.setAge(age);
+	//other methods
+	public void getDetail() {
+		
 	}
 }

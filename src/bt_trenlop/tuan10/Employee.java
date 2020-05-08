@@ -7,6 +7,16 @@ public class Employee extends Person{
 		super(name, age);;
 		this.salary = salary;
 	}
+	public void setSalary(double s) {
+		this.salary = s;
+	}
+	public double getSalary() {
+		return this.salary;
+	}
 	
-	
+	//other methods
+	@Override
+	public void getDetail() {
+		
+	}
 }
